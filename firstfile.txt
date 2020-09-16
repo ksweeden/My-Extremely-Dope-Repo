@@ -1,1 +1,0 @@
-My first file within my first git repository. This is an additional sentence to test Git recognizing my actions.
